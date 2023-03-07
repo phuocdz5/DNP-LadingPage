@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'SVN-Mercuria' ;
+    src: url(../fonts/SVN-Mercuria.otf);
+    
+}
+@font-face {
+    font-family:'GlassAntiqua-Regular' ;
+    src: url(../fonts/GlassAntiqua-Regular.otf);
+}
+@font-face {
+    font-family:'Montserrat-Bold' ;
+    src: url(../fonts/Montserrat-Bold.otf);
+}
+@font-face {
+    font-family:'Montserrat-ExtraLight' ;
+    src: url(../fonts/Montserrat-ExtraLight.otf);
+}
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url(../fonts/Montserrat-SemiBold.otf);
+}
